@@ -1,0 +1,5 @@
+*.log
+.pytest_cache/
+assets/
+venv/
+__pycache__/
